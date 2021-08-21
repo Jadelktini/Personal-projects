@@ -36,7 +36,7 @@ class MainWidget(RelativeLayout):
     horizontal_lines = []
 
 
-    SPEED = 1
+    SPEED = 1.5
     current_offset_y = 0
     current_y_loop = 0
 
